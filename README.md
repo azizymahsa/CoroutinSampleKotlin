@@ -4,7 +4,7 @@ Welcome to My Project! This repository contains the source code for my awesome A
 
 ## Dependencies
 
-To use the navigation components in your project, you'll need to add the following dependencies:
+A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously, you'll need to add the following dependencies:
 
 ### Java & Kotlin
 
