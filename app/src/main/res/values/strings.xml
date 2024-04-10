@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoroutinSampleKotlin</string>
+    <string name="title_activity_second">second</string>
+</resources>
